@@ -2,11 +2,14 @@
 
 Step into the exciting realm of web development by challenging yourself to build a unique websites from scratch. Using the power of HTML, CSS, and JavaScript, each project will be a new opportunity to experiment with design, hone your coding skills, and showcase your creativity.
 
-**Live Demo:** [Explore the Simple Weather Application](https://github.com/MrSubham51/Simple-Weather-website-application/)
+
+**Live Demo:**      ( https://mrsubham51.github.io/Simple-Weather-website-application/ )
+
+**Github Repo:**    [Explore the Simple Weather Application](https://github.com/MrSubham51/Simple-Weather-website-application/) 
 
 ## Join the Challenge
 
-**GitHub:** [MrSubham51](https://github.com/MrSubham51)
+**GitHub Site:** [MrSubham51](https://github.com/MrSubham51)
 
 The web is overflowing with free resources—tutorials, code snippets, and open-source projects—that will guide and inspire you along the way. Whether you’re crafting a personal blog, launching an e-commerce platform, building a professional portfolio, or creating interactive web applications, the possibilities are endless.
 
